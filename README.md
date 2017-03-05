@@ -1,4 +1,4 @@
-#ECAL Workshop - Hybrid Sculpture
+##ECAL Workshop - Hybrid Sculpture
 
 ###Pepper's Ghost
 
@@ -13,25 +13,25 @@
 
 ###Augmented Reality
 
-https://www.vuforia.com/
+[Vuforia](https://www.vuforia.com/)
 
-http://www.justapixel.co.uk/how-to-make-an-ar-app-in-5-minutes-with-unity-and-vuforia/
+[VUforia + Unity in 5 Minutes](http://www.justapixel.co.uk/how-to-make-an-ar-app-in-5-minutes-with-unity-and-vuforia/)
 
-https://artoolkit.org/
+[ARToolkit](https://artoolkit.org/)
 
 ###Unity
 
-https://channel9.msdn.com/Series/UnityCreativeCoding
+[Unity Creative Coding](https://channel9.msdn.com/Series/UnityCreativeCoding)
 
-http://catlikecoding.com/unity/tutorials/
+[Catlike Coding C# Tutorials](http://catlikecoding.com/unity/tutorials/)
 
-https://github.com/keijiro
+[Keijiro Github](https://github.com/keijiro)
 
-https://github.com/leon196
+[Leon Desnise Github](https://github.com/leon196)
 
 
 ###Misc
 
-http://openframeworks.cc/
+[OpenFrameworks](http://openframeworks.cc/)
 
-https://thebookofshaders.com/
+[Book of Shaders](https://thebookofshaders.com/)
