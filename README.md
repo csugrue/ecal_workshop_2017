@@ -1,18 +1,17 @@
-# ecal_workshop_2017
-ECAL Workshop - Hybrid Sculpture
+#ECAL Workshop - Hybrid Sculpture
 
-##Pepper's Ghost
+###Pepper's Ghost
 
-https://en.wikipedia.org/wiki/Pepper's_ghost
+[Pepper's Ghost](https://en.wikipedia.org/wiki/Pepper's_ghost)
 
-http://www.instructables.com/id/Reflective-Prism/?ALLSTEPS
+[DIY Pepper's Ghost Pyramid](http://www.instructables.com/id/Reflective-Prism/?ALLSTEPS)
 
-https://www.assetstore.unity3d.com/en/#!/content/61735
+[Unity Asset for Pyramids](https://www.assetstore.unity3d.com/en/#!/content/61735)
 
-https://threejs.org/examples/webgl_effects_peppersghost.html
+[WebGL Pyramid](https://threejs.org/examples/webgl_effects_peppersghost.html)
 
 
-##Augmented Reality
+###Augmented Reality
 
 https://www.vuforia.com/
 
@@ -20,7 +19,7 @@ http://www.justapixel.co.uk/how-to-make-an-ar-app-in-5-minutes-with-unity-and-vu
 
 https://artoolkit.org/
 
-##Unity
+###Unity
 
 https://channel9.msdn.com/Series/UnityCreativeCoding
 
@@ -31,7 +30,7 @@ https://github.com/keijiro
 https://github.com/leon196
 
 
-##Misc
+###Misc
 
 http://openframeworks.cc/
 
