@@ -6,9 +6,9 @@
 
 [DIY Pepper's Ghost Pyramid](http://www.instructables.com/id/Reflective-Prism/?ALLSTEPS)
 
-[Unity Asset for Pyramids](https://www.assetstore.unity3d.com/en/#!/content/61735)
+[Unity Asset for PG Pyramids](https://www.assetstore.unity3d.com/en/#!/content/61735)
 
-[WebGL Pyramid](https://threejs.org/examples/webgl_effects_peppersghost.html)
+[WebGL PG Pyramid](https://threejs.org/examples/webgl_effects_peppersghost.html)
 
 
 ###Augmented Reality
@@ -33,6 +33,8 @@
 ###Misc
 
 [FaceOsc](https://github.com/kylemcdonald/ofxFaceTracker/releases)
+
+[Three.js](https://threejs.org/)
 
 [OpenFrameworks](http://openframeworks.cc/)
 
