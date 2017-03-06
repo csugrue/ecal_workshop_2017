@@ -29,7 +29,7 @@ In this workshop we will explore the concept of a hybrid sculptures -- creating 
 
 [Keijiro Github](https://github.com/keijiro)
 
-[Leon Desnise Github](https://github.com/leon196)
+[Leon Denise Github](https://github.com/leon196)
 
 
 ###Misc
