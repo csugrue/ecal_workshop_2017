@@ -32,6 +32,8 @@
 
 ###Misc
 
+[FaceOsc](https://github.com/kylemcdonald/ofxFaceTracker/releases)
+
 [OpenFrameworks](http://openframeworks.cc/)
 
 [Book of Shaders](https://thebookofshaders.com/)
