@@ -11,7 +11,7 @@ void setup(){
   size(640,480);
   
   // listen port
-  oscP5 = new OscP5(this,8338);
+  oscP5 = new OscP5(this,9339);
 
 }
 
@@ -24,13 +24,13 @@ void draw(){
 
 void oscEvent(OscMessage theOscMessage) {
   
-  String address = theOscMessage.addrPattern();
+  /*String address = theOscMessage.addrPattern();
   if( address.equals("/pose/position") ){
     float x = theOscMessage.get(0).floatValue();
     float y = theOscMessage.get(1).floatValue();
     px = x;
     py = y;
-  }
+  }*/
   
   /*String address = theOscMessage.addrPattern();
   if( address.equals("/cv/blobs")){
