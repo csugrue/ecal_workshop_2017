@@ -1,0 +1,6 @@
+<cvOSC>
+	<ip>localhost</ip>
+	<port>6448</port>
+	<address>/cv/blobs</address>
+	<deviceId>0</deviceId>
+</cvOSC>
